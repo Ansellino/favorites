@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 nasi babi
 soto babi
 ayam goreng
+=======
+harry potter
+harry lasso
+harry tanoe
+>>>>>>> movies
